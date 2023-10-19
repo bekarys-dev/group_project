@@ -1,0 +1,86 @@
+.blok1 {
+    background: #FFF1ED;
+}
+nav {
+    display: inline-block;
+    width: 413px;
+    height: 66px;
+}
+.navbar-list a {
+    color:#757B8A ;
+    text-decoration: none;
+    display: inline-block;
+}
+.navbar-list li {
+    display: inline-block;
+    margin-left: 32px;
+}
+.image {
+    width: 483px;
+    height: 684px;
+    left: 837px;
+    border-radius: 0px, 0px, 241.5px, 241.5px;
+}
+
+.image-container {
+    position: relative;
+}
+
+.bg-hero {
+    position: absolute;
+    top: 0;
+    right: 120px;
+}
+
+.graphics-top {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 291px;
+    height: 183px;
+}
+
+.graphics {
+    position: absolute;
+    right: 457px;
+
+}
+
+#logo {
+    width: Hug (1,696px);
+    height: Hug (96px);
+    top: 75px;
+    left: -128px;
+}
+.p {
+    width: 620px;
+    height: 116px;
+}
+
+.conteiner-1 {
+    width: 948px;
+    height: 463px;
+    top: 80px;
+    color: #101010;  
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: center;
+}
+.feature-text-1 {
+    width: 276px;
+    height: 291px;
+    padding: 24px;
+    gap: 56px;
+    color: #FFFFFF;
+    background-image: url(./image2blok.png);
+}
+.feature-text-2 {
+    background: #FFF1ED;
+    width: 276px;
+    height: 291px;
+    border-radius: 16px;
+    padding: 24px;
+    gap: 56px;
+}

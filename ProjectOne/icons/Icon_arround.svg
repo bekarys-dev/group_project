@@ -1,0 +1,25 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="20" height="20" fill="#E0E0E0"/>
+<g id="Landing - Coworking Space" clip-path="url(#clip0_288_946)">
+<rect width="1440" height="5356" transform="translate(-293 -741)" fill="white"/>
+<g id="Hero Section" clip-path="url(#clip1_288_946)">
+<rect width="1440" height="914" transform="translate(-293 -741)" fill="white"/>
+<g id="Content">
+<g id="Button">
+<rect x="-173" y="-18" width="225" height="56" rx="8" fill="#24AA4A"/>
+<g id="Icon">
+<path id="Icon_2" d="M11.6667 4.16699L17.5 10.0003M17.5 10.0003L11.6667 15.8337M17.5 10.0003L2.5 10.0003" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_288_946">
+<rect width="1440" height="5356" fill="white" transform="translate(-293 -741)"/>
+</clipPath>
+<clipPath id="clip1_288_946">
+<rect width="1440" height="914" fill="white" transform="translate(-293 -741)"/>
+</clipPath>
+</defs>
+</svg>

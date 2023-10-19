@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.navbar-list {
+    display: inline-block;
+}
+
+.navbar-list li {
+    display: inline-block;
+    margin-left: 32px;
+}
+
+.navbar-list a {
+    color: #EDEDED;
+    
+}
+
+header {
+    background-color: #1B1AFF;
+}
+
+.navbar-links {
+    display: inline-block;
+}
+
+.navbar-links a {
+    margin-left: 300px;
+    color: white;
+    font-weight: 700;
+}
+
+.navbar-links button {
+    background-color: #A7F46A;
+    border: none;
+    font-size: 16px;
+    border-radius: 8px;
+    padding: 16px 26px;
+    font-weight: 700;
+    margin-left: 32px;
+}
+
+.hero {
+    background-color: #1B1AFF;
+}
